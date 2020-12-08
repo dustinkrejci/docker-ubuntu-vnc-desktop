@@ -7327,9 +7327,10 @@ vue-material@^1.0.0-beta-10.2:
   version "1.0.0-beta-11"
   resolved "https://registry.yarnpkg.com/vue-material/-/vue-material-1.0.0-beta-11.tgz#11baf0cdb22a35d35859c619099d6c3cb3cc2cc3"
 
-vue-router@^3.0.1:
-  version "3.1.3"
-  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.1.3.tgz#e6b14fabc0c0ee9fda0e2cbbda74b350e28e412b"
+vue-router@^3.4.9:
+  version "3.4.9"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.4.9.tgz#c016f42030ae2932f14e4748b39a1d9a0e250e66"
+  integrity sha512-CGAKWN44RqXW06oC+u4mPgHLQQi2t6vLD/JbGRDAXm0YpMv0bgpKuU5bBd7AvMgfTz9kXVRIWKHqRwGEb8xFkA==
 
 vue-style-loader@^3.0.0, vue-style-loader@^3.0.1:
   version "3.1.2"
